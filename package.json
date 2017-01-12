@@ -1,6 +1,6 @@
 {
   "name": "gupshup-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility libraries for gupshup bot platform, Contains BotRoutes",
   "main": "index.js",
   "scripts": {
