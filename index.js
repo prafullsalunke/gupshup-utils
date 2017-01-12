@@ -1,1 +1,1 @@
-module.export = require('./lib/BotRoutes.js');
+module.export = require('./lib/BotRoutes');
