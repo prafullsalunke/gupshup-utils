@@ -1,0 +1,30 @@
+{
+  "name": "gupshup-utils",
+  "version": "1.0.0",
+  "description": "Utility libraries for gupshup bot platform, Contains BotRoutes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prafullsalunke/gupshup-utils.git"
+  },
+  "keywords": [
+    "gupshup",
+    "utils",
+    "bot",
+    "utils",
+    "bot",
+    "routes",
+    "gupshup",
+    "routes",
+    "library"
+  ],
+  "author": "Prafull Salunke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prafullsalunke/gupshup-utils/issues"
+  },
+  "homepage": "https://github.com/prafullsalunke/gupshup-utils#readme"
+}
